@@ -13,19 +13,12 @@
 
 - 🔭 I’m currently working on **Deep Learning**
 
-- 🌱 I’m currently learning **AWS, GCP,JS**
-
 - 👯 I’m looking to collaborate on **AI, IOT**
 
 - 🤝 I’m looking for help with **Python, AI**
 
-- 👨‍💻 All of my projects are available at [github.com/santos-k](github.com/santos-k)
+- 👨‍💻 All of my projects are available at [GitHub](github.com/santos-k) & [Kaggle](https://www.kaggle.com/kuchhbhi)
 
-- 💬 Ask me about **Python, ML, DL, NLP**
-
-- 📫 How to reach me **https://www.linkedin.com/in/santos-k/**
-
-- ⚡ Fun fact **Crazy about Data**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
