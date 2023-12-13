@@ -1,31 +1,12 @@
 ![image](https://user-images.githubusercontent.com/40932902/208278562-8625fe61-c012-495b-ac46-175f7804f032.png)
 
 <h1 align="center">Hi 👋, I'm Santosh Kumar</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<!-- <h3 align="center">A passionate Data Scientist</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santos-k&label=Profile%20views&color=0e75b6&style=flat" alt="santos-k" /> </p>
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=santos-k&theme=onedark" />
-</p>
-
-- 🔭 I’m currently working on **Deep Learning**
-
-- 👯 I’m looking to collaborate on **AI, IOT**
-
-- 🤝 I’m looking for help with **Python, AI**
-
-- 👨‍💻 All of my projects are available at [GitHub](github.com/santos-k) & [Kaggle](https://www.kaggle.com/kuchhbhi)
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/santos-k" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santos-k" height="30" width="40" />
-    </a>
-<a href="https://kaggle.com/kuchhbhi" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kuchhbhi" height="30" width="40" />
-    </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
